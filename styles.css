@@ -30,3 +30,34 @@ h1 {
     padding: 20px 0px;
     font-weight: bold;
 }
+
+.JakePhoto {
+    position: fixed;
+    top: 0;
+    right: 0px;
+    margin: 20px;
+}
+
+.JakePhoto2 {
+    border: 5px solid rgb(229, 162, 152);
+    border-radius: 5px;
+    overflow: hidden;
+    object-fit: cover;
+    width: 180px;
+    height: 180px;
+    object-position: left 0%;
+}
+
+.SFUlogo {
+    position: absolute;
+    top: 0;
+    left: 0;
+    margin: 20px;
+}
+
+.SFUlogo2 {
+    border: 5px solid rgb(229, 162, 152);
+    border-radius: 5px;
+    width: 75%;
+    height: auto;
+}
