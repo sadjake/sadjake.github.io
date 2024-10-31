@@ -4,6 +4,10 @@ body {
     font-family: 'Courier New', Courier, monospace;
 }
 
+h1 {
+    font-size: xx-large;
+}
+
 .banner {
     background-image: linear-gradient(
         45deg,
