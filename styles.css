@@ -4,3 +4,25 @@ body {
     font-family: 'Courier New', Courier, monospace;
 }
 
+.banner {
+    background-image: linear-gradient(
+        45deg,
+        hsl(240deg 20% 14%) 0%,
+        hsl(264deg 18% 19%) 8%,
+        hsl(288deg 16% 24%) 17%,
+        hsl(314deg 16% 30%) 25%,
+        hsl(330deg 19% 37%) 33%,
+        hsl(342deg 20% 44%) 42%,
+        hsl(353deg 21% 51%) 50%,
+        hsl(3deg 28% 58%) 58%,
+        hsl(12deg 38% 63%) 67%,
+        rgb(212, 157, 130) 75%,
+        hsl(28deg 60% 71%) 83%,
+        hsl(36deg 70% 75%) 92%,
+        hsl(45deg 78% 79%) 100%
+    );
+    color: white;
+    text-align: center;
+    padding: 20px 0px;
+    font-weight: bold;
+}
