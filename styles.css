@@ -96,3 +96,11 @@ h1 {
     margin-left: 125px;
     margin-right: 125px;
 }
+
+.experience-text {
+    font-size: large;
+    padding-top: 40px;
+    margin-left: 125px;
+    margin-right: 125px;
+    padding-bottom: 40px;
+}
