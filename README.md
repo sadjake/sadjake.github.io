@@ -22,6 +22,14 @@ This project is a simple HTML and CSS website.
 - The main page can be accessed via index.html.
 - Navigate through the website using the menu links.
 
+```
+/project-root
+├── index.html       // Main HTML file
+├── styles.css       // Main CSS file
+├── images/          // Directory for images
+└── README.md        // Documentation file
+```
+
 ### Contributing
 1. Fork the repository.
 2. Create a new branch.
