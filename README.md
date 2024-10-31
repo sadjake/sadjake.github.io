@@ -25,6 +25,10 @@ This project is a simple HTML and CSS website.
 ```
 /project-root
 ├── index.html       // Main HTML file
+├── experience.html  // Experience page
+├── community.html   // Community page
+├── links.html       // Links page
+├── projects.html    // Projects page
 ├── styles.css       // Main CSS file
 ├── images/          // Directory for images
 └── README.md        // Documentation file
