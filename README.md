@@ -18,20 +18,14 @@ This project is a simple HTML and CSS website.
    ```bash
    git clone https://github.com/yourusername/repository-name.git
 
-   /project-root
-├── index.html       // Main HTML file
-├── styles.css       // Main CSS file
-├── images/          // Directory for images
-└── README.md        // Documentation file
+### Usage
+- The main page can be accessed via index.html.
+- Navigate through the website using the menu links.
 
-Usage
-The main page can be accessed via index.html.
-Navigate through the website using the menu links.
+### Contributing
+1. Fork the repository.
+2. Create a new branch.
+3. Make your changes and submit a pull request.
 
-Contributing
-Fork the repository.
-Create a new branch.
-Make your changes and submit a pull request.
-
-License
+### License
 This project is licensed under the MIT License.
